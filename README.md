@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Saini</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0INmIvqQKYirBlwL3vW5ot&ust=1745261988041000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDcttml54wDFQAAAAAdAAAAABAK)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshasaini-in&label=Profile%20views&color=0e75b6&style=flat" alt="dikshasaini-in" /> </p>
 
 - 📫 How to reach me **dikshasaini352@gmail.com**
