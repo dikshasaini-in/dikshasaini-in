@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diksha Saini</h1>
 <h3 align="center">A passionate Software Engineer developer from India.</h3>
-<img align="right" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/c5925adc-afaa-4601-9e6d-c3044ed0875c" />
-
-
+<img align="right" alt="coding" width="300" src=https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshasaini-in&label=Profile%20views&color=0e75b6&style=flat" alt="dikshasaini-in" /> </p>
 
